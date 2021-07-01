@@ -1,0 +1,17 @@
+ogrenci kurs kayit sistemi  Kullaniciya kac adet ogrenci girmek istedigini sorun
+kullanıcıdan her öğrenci için isim ve dogum tarihi  girmesi istenmelidir
+öğrenciler, 5 haneli benzersiz numara kimliğine sahip olmalıdır(ilk hanesi isminin bas harfi olmali diger 4 hane random atanmalidir)
+
+Ogrenciler su kurslara kaydolabilir
+Tarih
+Matematik
+Bilgisayar
+Fizik
+Resim
+
+Eger 18 yasindan kucuk ise %10 indirim uygulanmalidir.
+Tum kurslara katilanlara % 5 indirim uygulanmalidr
+
+Her kursun ucreti 600 eurodur
+
+öğrenciler bakiyelerini görebilmeli ve öğrenim ücretini ödeyebilmelidir
